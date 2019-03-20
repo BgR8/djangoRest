@@ -1,0 +1,7 @@
+db.sqlite3
+
+djangoRest/__pycache__/*
+restUygulama/__pycache__/*
+
+restUygulama/migrations/*
+!restUygulama/migrations/__init__.py
